@@ -134,7 +134,7 @@
 
   const editCar = (id) => {
     let name = $('#name').val();
-    let price = $('#price').val();
+    let price = rupiah($('#price').val());
     let size = $('#size').val();
     let image = $('#image')[0].files[0];
     let data = new FormData();
