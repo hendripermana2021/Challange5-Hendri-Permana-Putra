@@ -8,7 +8,7 @@ Kelas : FSW 1 / KM-3
 
 # Run
 ```
-npm start
+npm run start
 ```
 
 # Database management
