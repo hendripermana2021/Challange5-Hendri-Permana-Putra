@@ -15,16 +15,16 @@ npm run start
 For database management, used MYSQL with tools PHPMYADMIN, and SEQUELIZE
 
 
-#HOW TO START
-##first --> clone and place all path to folder you want
+# HOW TO START
+# first --> clone and place all path to folder you want
 
-##Second --> install xampp, because iam used MYSQL for my Database Management, and then create
+# Second --> install xampp, because iam used MYSQL for my Database Management, and then create
 ```
 Database name = "db_cars"
 Table Name = "cars"
 ```
 
-##Third --> Open file name "index.js" and enable or Uncomment this line code 
+# Third --> Open file name "index.js" and enable or Uncomment this line code 
 ```
 app.use(cors());
 app.use(express.json());
@@ -47,9 +47,9 @@ try {
 }
 ```
 
-###Fourth --> RUN with "npm run start", and wait until the servers start and create your table database with a field automatically, after that, you must comment again, the line code you uncomment before, let it not always load to create a table.
+# Fourth --> RUN with "npm run start", and wait until the servers start and create your table database with a field automatically, after that, you must comment again, the line code you uncomment before, let it not always load to create a table.
 
-###Fifth --> and NOW, this website ready to use. :)
+# Fifth --> and NOW, this website ready to use. :)
 
 
 # Endpoint
