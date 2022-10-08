@@ -6,10 +6,6 @@ Kelas : FSW 1 / KM-3
 # Car Management Dashboard (ERD)
 ![alt text](./ERD/db_cars.png)
 
-## Run
-```
-npm run start
-```
 
 # Database management
 For database management, used MYSQL with tools PHPMYADMIN, and SEQUELIZE
@@ -46,7 +42,13 @@ try {
 }
 ```
 
-##### Fourth --> RUN with "npm run start", and wait until the servers start and create your table database with a field automatically, after that, you must comment again, the line code you uncomment before, let it not always load to create a table.
+#### Run
+```
+npm run start
+```
+
+##### Fourth -->  wait until the servers start and create your table database with a field automatically, after that, you must comment again, the line code you uncomment before, let it not always load to create a table.
+
 
 ##### Fifth --> and NOW, this website ready to use. :)
 
