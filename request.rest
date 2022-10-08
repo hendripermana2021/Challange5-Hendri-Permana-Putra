@@ -1,0 +1,12 @@
+GET http://localhost:8000/cars/
+
+###
+POST http://localhost:8000/cars
+Content-Type: application/json
+
+{
+    "name" : "Suzuki",
+    "price" : "200000",
+    "size" : "big",
+    "image" : "uploud/version/laskjdlkaj.jpg"
+}
